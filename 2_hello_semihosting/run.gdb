@@ -1,0 +1,1 @@
+../common/run.python_semihosting.gdb
